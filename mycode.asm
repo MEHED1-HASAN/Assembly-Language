@@ -1,0 +1,1 @@
+;Example 6.8 Write a count-controlled loop to display a row of 80 stars.
