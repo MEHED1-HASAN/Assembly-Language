@@ -1,0 +1,12 @@
+org 100h
+
+MOV AX, -5
+MOV BX, 10
+
+MOV CX, AX
+CMP AX, BX
+JGE NEXT
+MOV CX, BX
+NEXT:
+
+RET
