@@ -1,6 +1,0 @@
-org 100h
-MOV DH, 0ABh
-mov SI,1234h
-MOV 43[SI], DH
-MOV BL, 43H[SI]
-RET
